@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 # 数据中心工具的自动化测试
+#http://bluemars.applinzi.com
 # --------支持的包---------#
 import chardet
 import time
